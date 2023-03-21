@@ -4,7 +4,7 @@ My name is David, but those that know me call me Will.
 I'm intuitive with JavaScript and the extension of the syntax known as React.
 I’m currently learning Python and gaining more in-depth knowledge about React.js
 <br><br>
-<img src="https://reactjs.org/logo-og.png" width="100px"/>
+
 <!--
 **willdodsonn/willdodsonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
