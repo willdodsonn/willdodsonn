@@ -1,8 +1,8 @@
 ### Hello there! :)
 
 My name is David, but those that know me call me Will. 
-I'm intuitive with JavaScript and the extension of the syntax known as React.
-I’m currently learning Python and gaining more in-depth knowledge about React.js
+I'm intuitive with JavaScript and the syntax extension known as React.
+I’m currently studying Python and gaining more in-depth knowledge about languages, IDE's, and frameworks
 <br><br>
 
 <!--
